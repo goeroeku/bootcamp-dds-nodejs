@@ -1,6 +1,11 @@
-var data = [1, 2, 3];
-var newData = data.map((val, key) => {
-  console.log("val: " + val + "; key: " + key);
+const data = [1, 2, 3];
+const newData = data.map((val, key) => {
+  console.log(
+    "val: "
+      .concat(val)
+      .concat("; key: ")
+      .concat(key)
+  );
   return val * 10;
 });
 
