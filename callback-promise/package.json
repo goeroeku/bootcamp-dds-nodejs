@@ -1,0 +1,14 @@
+{
+  "name": "callback-promise",
+  "version": "1.0.0",
+  "description": "Latihan Callback, promise, async/await. Ex: Solusi agar flow eksekusi sesuai dengan skenario, misalnya data ditampilkan setelah proses createPost terlebih dahulu (tanpa menggubah waktu setTime, sebagai ilustrasi bawah setTime ini memakan waktu yang lebih cepat/lebih lambat)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "async-func": "node 00-async_func.js",
+    "callback": "node 01-callback.js",
+    "async-await": "node 02-async_await.js"
+  },
+  "author": "goeroeku",
+  "license": "ISC"
+}
