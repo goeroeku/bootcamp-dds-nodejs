@@ -10,3 +10,11 @@ Opening ceremony
 ### Day 3
 - Project Callback-promise
 - Project Looping
+
+### Day 4
+- Project Api-restify (penggunaan framework restify)
+
+
+
+**note
+- Script menggunakan style guide airbnb

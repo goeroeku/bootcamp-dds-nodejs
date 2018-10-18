@@ -1,14 +1,17 @@
 {
-  "name": "looping",
+  "name": "api-restify",
   "version": "1.0.0",
-  "description": "Looping with .forEach, .map, .filter, .reduce",
+  "description": "Latihan membuat api dengan NodeJs menggunakan framework Restify",
   "main": "index.js",
+  "author": "goeroeku",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
     "lint": "eslint ."
   },
-  "author": "goeroeku",
-  "license": "ISC",
+  "dependencies": {
+    "restify": "^7.2.1"
+  },
   "devDependencies": {
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0",
