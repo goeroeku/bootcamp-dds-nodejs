@@ -1,0 +1,16 @@
+insert into karyawan(nomor_induk,nama,alamat,tanggal_lahir,tanggal_masuk)values
+('IP06001','Agus','Jln. Gajah Mada 115A, Jakarta Pusat','1970-08-01','2006-07-07'),
+('IP06002','Amin','Jln. Bungur sari v No, 178, bandung','1977-05-03','2006-07-06'),
+('IP06003','Yusuf','Jln. Yosodpuro 15, surabaya','1973-08-09','2006-07-08'),
+('IP07004','Alyssa','Jln. Cendana No. 6 Bandung','1983-02-14','2007-01-05'),
+('IP07005','Maulana','Jln. Ampera Raya No 1','1985-10-10','2007-02-05');
+
+
+challenge:
+{
+ 'nomor_induk' : 'IP06001',
+ 'nama' : 'Agus',
+ 'alamat' : 'Jln. Gajah Mada 115A, Jakarta Pusat',
+ 'tanggal_lahir' : '1970-08-01',
+ 'tanggal_masuk' : '2006-07-07'
+}

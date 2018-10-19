@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-postgres",
+  "version": "1.0.0",
+  "description": "Nodejs Postgres",
+  "main": "index.js",
+  "author": "goeroeku",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "pg": "^7.5.0",
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "prettier": "^1.14.3"
+  }
+}

@@ -1,0 +1,5 @@
+insert into cuti_karyawan (nomor_induk,tanggal_mulai,lama_cuti,keterangan)values
+('IP06001','2012-02-01',3,'Acara keluar'),
+('IP06001','2012-02-13',4,'Anak sakit'),
+('IP07007','2012-02-15',2,'Nenek sakit'),
+('IP06003','2012-02-17',1,'Mendaftar sekolah anak');
