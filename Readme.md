@@ -15,8 +15,8 @@ Opening ceremony
 - Project Api-restify (penggunaan framework restify)
 
 ### Day 5
-- Project node-restify-postgres (menggunakan library pg-restify, menggunakan docker postgres + adminer)
-- Project nodejs-postgres (menggunakan library pg)
+- Project nodejs-restify-postgres (menggunakan library pg-promise)
+- Project nodejs-postgres (menggunakan library pg, menggunakan docker postgres + adminer)
 
 **note
 - Script menggunakan style guide airbnb
